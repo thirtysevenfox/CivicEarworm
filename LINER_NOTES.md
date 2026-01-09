@@ -68,14 +68,26 @@ Thanks to the toolmakers who unknowingly enabled a full-spectrum civic education
 
 ---
 
-**Need this adapted for:**  
-- Press kits  
-- Liner notes  
+**Need this adapted or need to discuss:**  
+- Press Engagement
+- Distribution
+- Education Opportunities
 - Zines  
 - Presentations?
 - Speaking Engagements
 - Crisis Consulting
+- Collaboration
 
 Let’s talk.
-
 mail: civics@mctsecurity.com
+
+### 🎶 About the Music
+
+Musical genre and style were chosen for **memorability**, not because they’re groundbreaking. You’re not getting chart-toppers — you’re getting **Yacht Rock mnemonics** and **Boy Band ACLU crib sheets**.
+
+> 📝 *If it’s catchy enough to annoy you, it’s probably sticky enough to save your rights.*
+
+This isn’t about cool. It’s about **recall under pressure**. Earworms win.
+
+> 🎧 **That said... this *did* produce some bangers.**
+
