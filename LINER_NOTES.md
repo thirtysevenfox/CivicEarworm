@@ -2,7 +2,7 @@
 # 🎧 About the Artist / Liner Notes
 
 ## 🗂️ Project Title: *Civic Readiness & Digital Hygiene*  
-**🎙️ Artist / Coordinator:** `ThirtySevenFox`
+**🎙️ Artist / Facilitator:** `ThirtySevenFox`
 
 ---
 
