@@ -11,55 +11,72 @@ PDF_NAME="Civic_Readiness_Lessonbook.pdf"
 echo "💾 Creating output markdown: $OUTPUT"
 > "$OUTPUT"
 
-# --- 1. COVER PAGE ---
+# --- 1. TITLE PAGE ---
 TITLE="Civic Readiness & Digital Hygiene"
-
-# Extract name and email from LINER_NOTES
-AUTHOR=$(grep -i '^name:' LINER_NOTES.md | head -1 | cut -d':' -f2 | xargs)
-EMAIL=$(grep -i '^email:' LINER_NOTES.md | head -1 | cut -d':' -f2 | xargs)
+AUTHOR=$(grep -i '^name:' LINER_NOTES.md 2>/dev/null | head -1 | cut -d':' -f2 | xargs || echo "")
+EMAIL=$(grep -i '^email:' LINER_NOTES.md 2>/dev/null | head -1 | cut -d':' -f2 | xargs || echo "")
 
 echo "# $TITLE" >> "$OUTPUT"
+echo "" >> "$OUTPUT"
 [ -n "$AUTHOR" ] && echo "### $AUTHOR" >> "$OUTPUT"
 [ -n "$EMAIL" ] && echo "### $EMAIL" >> "$OUTPUT"
-echo -e "\n\n\\newpage\n\n" >> "$OUTPUT"
+echo "" >> "$OUTPUT"
+echo "\\newpage" >> "$OUTPUT"
+echo "" >> "$OUTPUT"
 
-# --- 2. ROOT DOCS ---
+# --- 2. ROOT MD FILES ---
+echo "📄 Adding root markdown files..."
 for FILE in README.md LINER_NOTES.md PRESSKIT.MD; do
     if [ -f "$FILE" ]; then
-        echo -e "\n\n# $(basename "$FILE" .md)\n\n" >> "$OUTPUT"
+        echo "   Adding $FILE"
         cat "$FILE" >> "$OUTPUT"
-        echo -e "\n\n\\newpage\n\n" >> "$OUTPUT"
+        echo "" >> "$OUTPUT"
+        echo "\\newpage" >> "$OUTPUT"
+        echo "" >> "$OUTPUT"
     fi
 done
 
-# --- 3. SONG SECTIONS ---
-for LYRIC_FILE in lyrics/*.md; do
-    NUMBER=$(basename "$LYRIC_FILE" | cut -d'-' -f1)
-    TITLE=$(basename "$LYRIC_FILE" | sed -E 's/^[0-9]+-(.*)-lyrics\.md/\1/' | tr '-' ' ')
-    LESSON_FILE=$(ls lessons/${NUMBER}-*-lesson.md 2>/dev/null || true)
-    IMAGE_FILE=$(ls InfoGraphics/"$NUMBER - "*.{png,jpg,jpeg} 2>/dev/null || true)
+# --- 3. NUMBERED TRACKS: LYRICS + LESSON + INFOGRAPHIC ---
+echo "🎵 Adding numbered tracks..."
+for NUM in $(seq -w 01 26); do
+    echo "   Processing track $NUM..."
 
-    # Add lyrics
-    echo -e "\n\n# Lyric $NUMBER: $TITLE\n\n" >> "$OUTPUT"
-    cat "$LYRIC_FILE" >> "$OUTPUT"
-    echo -e "\n\n\\newpage\n\n" >> "$OUTPUT"
-
-    # Add lesson (if exists)
-    if [ -f "$LESSON_FILE" ]; then
-        echo -e "\n\n## Lesson $NUMBER: $TITLE\n\n" >> "$OUTPUT"
-        cat "$LESSON_FILE" >> "$OUTPUT"
-        echo -e "\n\n\\newpage\n\n" >> "$OUTPUT"
+    # Find and add lyrics
+    LYRIC_FILE=$(ls lyrics/${NUM}-*-lyrics.md 2>/dev/null || true)
+    if [ -f "$LYRIC_FILE" ]; then
+        echo "      Lyrics: $LYRIC_FILE"
+        cat "$LYRIC_FILE" >> "$OUTPUT"
+        echo "" >> "$OUTPUT"
+        echo "\\newpage" >> "$OUTPUT"
+        echo "" >> "$OUTPUT"
     fi
 
-    # Add infographic image (if exists)
+    # Find and add lesson
+    LESSON_FILE=$(ls lessons/${NUM}-*-lesson.md 2>/dev/null || true)
+    if [ -f "$LESSON_FILE" ]; then
+        echo "      Lesson: $LESSON_FILE"
+        cat "$LESSON_FILE" >> "$OUTPUT"
+        echo "" >> "$OUTPUT"
+        echo "\\newpage" >> "$OUTPUT"
+        echo "" >> "$OUTPUT"
+    fi
+
+    # Find and add infographic (handle spaces in filenames)
+    IMAGE_FILE=$(find InfoGraphics -maxdepth 1 -name "${NUM} - *.png" -o -name "${NUM} - *.jpg" -o -name "${NUM}- *.png" 2>/dev/null | head -1 || true)
     if [ -f "$IMAGE_FILE" ]; then
-        echo -e "\n\n![Infographic for $TITLE]($IMAGE_FILE)\n\n" >> "$OUTPUT"
-        echo -e "\n\n\\newpage\n\n" >> "$OUTPUT"
+        echo "      Infographic: $IMAGE_FILE"
+        echo "![Infographic]($IMAGE_FILE)" >> "$OUTPUT"
+        echo "" >> "$OUTPUT"
+        echo "\\newpage" >> "$OUTPUT"
+        echo "" >> "$OUTPUT"
     fi
 done
 
 # --- 4. BUILD PDF ---
 echo "📚 Generating PDF: $PDF_NAME"
-pandoc "$OUTPUT" -o "$PDF_NAME" --pdf-engine=xelatex
+pandoc "$OUTPUT" -o "$PDF_NAME" \
+    --pdf-engine=xelatex \
+    -V geometry:margin=1in \
+    -V colorlinks=true
 
 echo "✅ Done! Output file: $PDF_NAME"

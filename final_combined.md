@@ -1,14 +1,7 @@
 # Civic Readiness & Digital Hygiene
 
 
-
-ewpage
-
-
-
-
-# README
-
+\newpage
 
 # Civic Readiness &  Digital Hygiene
 
@@ -249,15 +242,7 @@ It teaches **discipline, care, and continuity**.
 *Release links can be added per track when available.*
 
 
-
-
-ewpage
-
-
-
-
-# LINER_NOTES
-
+\newpage
 
 
 # 🎧 About the Artist / Liner Notes
@@ -353,15 +338,7 @@ This isn’t about cool. It’s about **recall under pressure**. Earworms win.
 > 🎧 **That said... this *did* produce some bangers.**
 
 
-
-
-ewpage
-
-
-
-
-# PRESSKIT.MD
-
+\newpage
 
 # PRESS KIT
 
@@ -583,15 +560,7 @@ Participation is **voluntary**. No affiliation required.
 - **Press Assets:** lyrics, lesson plans, infographics available on request
 
 
-
-
-ewpage
-
-
-
-
-# Lyric 01: Make The Phone Boring
-
+\newpage
 
 # Make the Phone Boring
 
@@ -871,15 +840,7 @@ Stick around
 
 **Make it boring.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 01: Make The Phone Boring
-
+\newpage
 
 # Lesson Detail — Make the Phone Boring
 
@@ -1125,26 +1086,11 @@ This track anchors digital autonomy and hygiene doctrine across the curriculum.
 
 > **The less your phone decides, the more control you keep.**
 
+\newpage
 
+![Infographic](InfoGraphics/01 - Make The Phone Boring.png)
 
-ewpage
-
-
-
-
-![Infographic for Make The Phone Boring](InfoGraphics/01 - Make The Phone Boring.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 02: Say It Slow
-
+\newpage
 
 # Say It Slow
 
@@ -1265,15 +1211,7 @@ Say it slow*
 Some things last
 Because they're kept
 
-
-
-ewpage
-
-
-
-
-## Lesson 02: Say It Slow
-
+\newpage
 
 # Lesson Detail — Say It Slow
 
@@ -1403,26 +1341,11 @@ A participant understands the lesson when they can say:
 
 > **The safest words are the ones you haven't spent yet.**
 
+\newpage
 
+![Infographic](InfoGraphics/02 - Say It Slow.png)
 
-ewpage
-
-
-
-
-![Infographic for Say It Slow](InfoGraphics/02 - Say It Slow.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 03: Confidence is Camouflage
-
+\newpage
 
 # Confidence is Camouflage
 
@@ -1677,15 +1600,7 @@ And when it's time to end
 You disappear the same way
 You came in.
 
-
-
-ewpage
-
-
-
-
-## Lesson 03: Confidence is Camouflage
-
+\newpage
 
 # Lesson Detail — Confidence is Camouflage
 
@@ -1984,26 +1899,11 @@ This track sits at the center of crowd discipline doctrine.
 
 > **If the world forgets you were there, you did it right.**
 
+\newpage
 
+![Infographic](InfoGraphics/03 - Confidence Is Camouflage.png)
 
-ewpage
-
-
-
-
-![Infographic for Confidence is Camouflage](InfoGraphics/03 - Confidence Is Camouflage.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 04: Carry the Signal
-
+\newpage
 
 # Carry the Signal
 
@@ -2145,15 +2045,7 @@ And knowin' who's in
 > Carry the signal.
 > **Stand your ground.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 04: Carry the Signal
-
+\newpage
 
 # Lesson Detail — Carry the Signal
 
@@ -2336,26 +2228,11 @@ This track anchors the messaging doctrine of the curriculum.
 
 > **Clarity carries farther than volume.**
 
+\newpage
 
+![Infographic](InfoGraphics/04 - Carry the Signal.png)
 
-ewpage
-
-
-
-
-![Infographic for Carry the Signal](InfoGraphics/04 - Carry the Signal.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 05: Allowed to Rest
-
+\newpage
 
 # Allowed to Rest
 
@@ -2446,15 +2323,7 @@ Put it down.
 Come back later.
 **You still belong.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 05: Allowed to Rest
-
+\newpage
 
 # Lesson Detail — Allowed to Rest
 
@@ -2619,26 +2488,11 @@ This track anchors the sustainability doctrine of the curriculum.
 
 > **You're allowed to rest — and the work will still be there.**
 
+\newpage
 
+![Infographic](InfoGraphics/05 - Allowed to Rest.png)
 
-ewpage
-
-
-
-
-![Infographic for Allowed to Rest](InfoGraphics/05 - Allowed to Rest.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 06: Stay Upright
-
+\newpage
 
 # Stay Upright
 
@@ -2762,15 +2616,7 @@ Control is care.
 The crowd is people.
 **Treat them that way.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 06: Stay Upright
-
+\newpage
 
 # Lesson Detail — Stay Upright
 
@@ -2983,15 +2829,11 @@ This track anchors the crowd safety and nonviolence doctrine of the curriculum.
 
 > **The goal isn't to hold the crowd — it's to get everyone home upright.**
 
+\newpage
 
+![Infographic](InfoGraphics/06- Stay Upright.png)
 
-ewpage
-
-
-
-
-# Lyric 07: Big Tent Weather
-
+\newpage
 
 # Big Tent Weather
 
@@ -3107,15 +2949,7 @@ Hold the door.
 Name the good.
 **That's enough to start with.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 07: Big Tent Weather
-
+\newpage
 
 # Lesson Detail — Big Tent Weather
 
@@ -3309,26 +3143,11 @@ This track anchors the coalition and legitimacy doctrine of the curriculum.
 
 > **Movements last when there's room inside them.**
 
+\newpage
 
+![Infographic](InfoGraphics/07 - Big Tent Weather.png)
 
-ewpage
-
-
-
-
-![Infographic for Big Tent Weather](InfoGraphics/07 - Big Tent Weather.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 08: Escalation is a Tell
-
+\newpage
 
 # Escalation Is a Tell
 
@@ -3452,15 +3271,7 @@ Let it move*
 **If it can't wait
 It can't be right**
 
-
-
-ewpage
-
-
-
-
-## Lesson 08: Escalation is a Tell
-
+\newpage
 
 # Lesson Detail — Escalation Is a Tell
 
@@ -3648,26 +3459,11 @@ This track anchors the pressure-recognition doctrine of the curriculum.
 
 > **If it can't wait, it can't be right.**
 
+\newpage
 
+![Infographic](InfoGraphics/08 - Escalation is a Tell.png)
 
-ewpage
-
-
-
-
-![Infographic for Escalation is a Tell](InfoGraphics/08 - Escalation is a Tell.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 09: When It s Needed
-
+\newpage
 
 # When It's Needed
 
@@ -3797,15 +3593,7 @@ Then leave the scene*
 Who did what
 It worked**
 
-
-
-ewpage
-
-
-
-
-## Lesson 09: When It s Needed
-
+\newpage
 
 # Lesson Detail — When It's Needed
 
@@ -4003,26 +3791,11 @@ This track anchors the situational-action and role-discipline doctrine of the cu
 
 > **If you can't tell who did what, it worked.**
 
+\newpage
 
+![Infographic](InfoGraphics/09 - When It's Needed.png)
 
-ewpage
-
-
-
-
-![Infographic for When It s Needed](InfoGraphics/09 - When It's Needed.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 10: Know Your Path
-
+\newpage
 
 # Know Your Path
 
@@ -4143,15 +3916,7 @@ That's the gain
 
 **Know your path.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 10: Know Your Path
-
+\newpage
 
 # Lesson Detail — Know Your Path
 
@@ -4327,26 +4092,11 @@ This track anchors the curriculum's individual-discipline and non-coordination d
 
 > **If no one knows who did what, and nothing points back — it worked.**
 
+\newpage
 
+![Infographic](InfoGraphics/10 - Know Your Path.png)
 
-ewpage
-
-
-
-
-![Infographic for Know Your Path](InfoGraphics/10 - Know Your Path.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 11: If it Breaks Walk Away
-
+\newpage
 
 # If It Breaks, Walk Away
 
@@ -4485,15 +4235,7 @@ Move on*
 **If it needed you to stay
 It wouldn't ask you to break.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 11: If it Breaks Walk Away
-
+\newpage
 
 # Lesson Detail — If It Breaks, Walk Away
 
@@ -4706,26 +4448,11 @@ This track anchors the curriculum's refusal, boundary, and disengagement doctrin
 
 > **If it breaks, walk away — clean and early.**
 
+\newpage
 
+![Infographic](InfoGraphics/11 - If it Breaks, Walk Away.png)
 
-ewpage
-
-
-
-
-![Infographic for If it Breaks Walk Away](InfoGraphics/11 - If it Breaks, Walk Away.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 12: SALUTE
-
+\newpage
 
 # SALUTE
 
@@ -4895,15 +4622,7 @@ If you doubt, say so
 Truth rides farther
 **When you let it go.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 12: SALUTE
-
+\newpage
 
 # Lesson Detail — SALUTE
 
@@ -5133,26 +4852,11 @@ This track anchors the curriculum's observation and documentation doctrine.
 
 > **Describe it clean. Let others decide.**
 
+\newpage
 
+![Infographic](InfoGraphics/12 - SALUTE.png)
 
-ewpage
-
-
-
-
-![Infographic for SALUTE](InfoGraphics/12 - SALUTE.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 13: If You re Seen Change the Scene
-
+\newpage
 
 # If You're Seen, Change the Scene
 
@@ -5308,15 +5012,7 @@ You walk awake, eyes open wide
 And that's the skill, simple, clean:
 **If you're seen… change the scene.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 13: If You re Seen Change the Scene
-
+\newpage
 
 # Lesson Detail — If You're Seen, Change the Scene
 
@@ -5517,26 +5213,11 @@ This track anchors the curriculum's situational-awareness and pattern-recognitio
 
 > **Notice the pattern. Change the scene. Stay calm.**
 
+\newpage
 
+![Infographic](InfoGraphics/13 - If Youre Seen Change the Scene.png)
 
-ewpage
-
-
-
-
-![Infographic for If You re Seen Change the Scene](InfoGraphics/13 - If Youre Seen Change the Scene.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 14: Confidence is Camouflage
-
+\newpage
 
 # Confidence is Camouflage
 
@@ -5548,15 +5229,7 @@ ewpage
 
 *(See: 03-Confidence-is-Camouflage-lyrics.md)*
 
-
-
-ewpage
-
-
-
-
-## Lesson 14: Confidence is Camouflage
-
+\newpage
 
 # Track 14 — Confidence is Camouflage
 
@@ -5566,15 +5239,7 @@ This track serves as a mid-curriculum reinforcement of the core doctrine introdu
 
 Repetition strengthens retention. Return to the original lesson for full content.
 
-
-
-ewpage
-
-
-
-
-# Lyric 15: Am I Detained or Am I Free
-
+\newpage
 
 # Am I Detained or Am I Free?
 
@@ -5710,15 +5375,7 @@ Say the words.
 Go home safe.
 **Protect the movement.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 15: Am I Detained or Am I Free
-
+\newpage
 
 # Lesson Detail — Am I Detained or Am I Free?
 
@@ -5930,26 +5587,11 @@ This track anchors the curriculum's legal-reality and rights-preservation doctri
 
 > **Ask the question. Stay silent. Ask for a lawyer. Leave if free.**
 
+\newpage
 
+![Infographic](InfoGraphics/15 - Am I Detained or Am I Free.png)
 
-ewpage
-
-
-
-
-![Infographic for Am I Detained or Am I Free](InfoGraphics/15 - Am I Detained or Am I Free.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 16: The Moscow Rules
-
+\newpage
 
 # Moscow Rules
 
@@ -6049,15 +5691,7 @@ Blend in.
 Break patterns.
 **Leave clean.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 16: The Moscow Rules
-
+\newpage
 
 # Lesson Detail — The Moscow Rules
 
@@ -6261,26 +5895,11 @@ This track anchors the curriculum's assumption-based awareness and exit discipli
 
 > **Assume you're seen. Keep an exit. Walk away clean.**
 
+\newpage
 
+![Infographic](InfoGraphics/16 - The Moscow Rules.png)
 
-ewpage
-
-
-
-
-![Infographic for The Moscow Rules](InfoGraphics/16 - The Moscow Rules.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 17: Duty to Disobey
-
+\newpage
 
 # Duty to Disobey
 
@@ -6395,15 +6014,7 @@ So choose your actions—don't abdicate
 An unlawful order has no command
 **The law is the voice you're sworn to stand.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 17: Duty to Disobey
-
+\newpage
 
 # Lesson Detail — Duty to Disobey
 
@@ -6545,26 +6156,11 @@ A participant can say:
 
 > **You serve the law—even when that means saying no.**
 
+\newpage
 
+![Infographic](InfoGraphics/17 - Duty to Disobey.png)
 
-ewpage
-
-
-
-
-![Infographic for Duty to Disobey](InfoGraphics/17 - Duty to Disobey.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 18: TPM
-
+\newpage
 
 # TPM
 
@@ -6672,15 +6268,7 @@ But freedom stays with me*
 Film safe… stand clear…
 **Rights don't disappear.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 18: TPM
-
+\newpage
 
 # Lesson Detail — TPM (Time, Place, Manner)
 
@@ -6881,26 +6469,11 @@ A participant understands this lesson when they can say:
 
 > **They can manage the space — not your voice.**
 
+\newpage
 
+![Infographic](InfoGraphics/18 - TPM.png)
 
-ewpage
-
-
-
-
-![Infographic for TPM](InfoGraphics/18 - TPM.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 19: Love Power War
-
+\newpage
 
 # Love, Power, War
 
@@ -7028,15 +6601,7 @@ Not all who fight have truly won.
 **The mind must guide…
 When the war is done.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 19: Love Power War
-
+\newpage
 
 # Lesson Detail — Love, Power, War
 
@@ -7196,26 +6761,11 @@ A participant understands the lesson when they can say:
 
 > **Power only works when law and purpose stay in front of it.**
 
+\newpage
 
+![Infographic](InfoGraphics/19 - Love Power War.png)
 
-ewpage
-
-
-
-
-![Infographic for Love Power War](InfoGraphics/19 - Love Power War.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 20: Save the Original
-
+\newpage
 
 # Save the Original
 
@@ -7334,15 +6884,7 @@ Keep it safe.
 **What you save
 Shapes the case.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 20: Save the Original
-
+\newpage
 
 # Lesson Detail — Save the Original
 
@@ -7535,26 +7077,11 @@ A participant understands this lesson when they can say:
 
 > **Posts disappear. Records persist. Save the original.**
 
+\newpage
 
+![Infographic](InfoGraphics/20 - Save the Original.png)
 
-ewpage
-
-
-
-
-![Infographic for Save the Original](InfoGraphics/20 - Save the Original.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 21: After the Sirens
-
+\newpage
 
 # After the Sirens
 
@@ -7711,15 +7238,7 @@ Records stay.
 **What you do tomorrow
 Counts as much as today.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 21: After the Sirens
-
+\newpage
 
 # Lesson Detail — After the Sirens
 
@@ -7878,15 +7397,11 @@ This lesson reinforces that boring, accurate records outlast spectacle.
 
 > **When the noise stops, the work begins — and the people who stay calm, patient, and precise shape what lasts.**
 
+\newpage
 
+![Infographic](InfoGraphics/21- After the Sirens.png)
 
-ewpage
-
-
-
-
-# Lyric 22: We Don t Forget
-
+\newpage
 
 # We Don't Forget (But We Don't Burn)
 
@@ -7989,15 +7504,7 @@ Records kept.
 **That's the line.
 That's the step.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 22: We Don t Forget
-
+\newpage
 
 # Lesson Detail — We Don't Forget (But We Don't Burn)
 
@@ -8172,26 +7679,11 @@ A participant understands this lesson when they can say:
 
 > **We remember by keeping records — not by burning bridges.**
 
+\newpage
 
+![Infographic](InfoGraphics/22 - We Dont Forget.png)
 
-ewpage
-
-
-
-
-![Infographic for We Don t Forget](InfoGraphics/22 - We Dont Forget.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 23: Court is Quiet Work
-
+\newpage
 
 # Court is Quiet Work
 
@@ -8315,15 +7807,7 @@ On time*
 **What lasts
 Is what you keep doing.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 23: Court is Quiet Work
-
+\newpage
 
 # Lesson Detail — Court Is Quiet Work
 
@@ -8494,26 +7978,11 @@ A participant understands this lesson when they can say:
 
 > **Justice is carried by the people who keep showing up.**
 
+\newpage
 
+![Infographic](InfoGraphics/23 - Court Is Quiet Work.png)
 
-ewpage
-
-
-
-
-![Infographic for Court is Quiet Work](InfoGraphics/23 - Court Is Quiet Work.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 24: No One Goes Alone
-
+\newpage
 
 # No One Goes Alone
 
@@ -8640,15 +8109,7 @@ No one goes alone*
 
 **No one goes alone.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 24: No One Goes Alone
-
+\newpage
 
 # Lesson Detail — No One Goes Alone
 
@@ -8826,26 +8287,11 @@ A participant understands this lesson when they can say:
 
 > **When the crowd leaves, we stay. No one goes alone.**
 
+\newpage
 
+![Infographic](InfoGraphics/24 - No One Goes Alone.png)
 
-ewpage
-
-
-
-
-![Infographic for No One Goes Alone](InfoGraphics/24 - No One Goes Alone.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 25: Come Be Part of It
-
+\newpage
 
 # Come Be Part of It
 
@@ -8955,15 +8401,7 @@ We make this country by ourselves
 Stand up, stay kind, don't disappear
 **Let's be part of history, together.**
 
-
-
-ewpage
-
-
-
-
-## Lesson 25: Come Be Part of It
-
+\newpage
 
 # Lesson Detail — Come Be Part of It
 
@@ -9145,26 +8583,11 @@ A participant understands this lesson when they can say:
 
 > **Don't just watch history — help carry it.**
 
+\newpage
 
+![Infographic](InfoGraphics/25 - Come Be Part of It.png)
 
-ewpage
-
-
-
-
-![Infographic for Come Be Part of It](InfoGraphics/25 - Come Be Part of It.png)
-
-
-
-
-
-ewpage
-
-
-
-
-# Lyric 26: Allowed to Rest
-
+\newpage
 
 # Allowed to Rest
 
@@ -9176,15 +8599,7 @@ ewpage
 
 *(See: 05-Allowed-to-Rest-lyrics.md)*
 
-
-
-ewpage
-
-
-
-
-## Lesson 26: Allowed to Rest
-
+\newpage
 
 # Track 26 — Allowed to Rest
 
@@ -9196,8 +8611,5 @@ Repetition strengthens retention and frames rest as both an opening and closing 
 
 Return to the original lesson for full content.
 
-
-
-ewpage
-
+\newpage
 
