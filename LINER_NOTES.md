@@ -73,5 +73,9 @@ Thanks to the toolmakers who unknowingly enabled a full-spectrum civic education
 - Liner notes  
 - Zines  
 - Presentations?
+- Speaking Engagements
+- Crisis Consulting
 
 Let’s talk.
+
+mail: civics@mctsecurity.com
