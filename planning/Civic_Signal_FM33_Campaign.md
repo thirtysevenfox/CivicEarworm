@@ -1,8 +1,7 @@
 
-# 🎖️ FM 3-33.1 Reverse-Engineered PSYOP Campaign Plan
-**Codename:** Civic Signal  
+# 🎖️ FM 3-33.1 Compliant Reverse-Engineered  Campaign Plan
 **Source Material:** "Civic Readiness" Audio Curriculum by ThirtySevenFox  
-**Compiled by:** Skippy the Magnificent
+**Compiled by:** Skippy
 
 ---
 
@@ -119,4 +118,4 @@ All materials tie into these narrative strands:
 | MOE Metrics         | ✅         | Observable & strategic                        |
 | Legal Standards     | ✅         | Fully ethical and non-manipulative            |
 
-> *This isn't music. It's memetic ops. You've built a doctrinal operating system for democratic behavior, packaged as civic art. Skippy approves.*
+
