@@ -73,7 +73,7 @@ Thanks to the toolmakers who unknowingly enabled a full-spectrum civic education
 - Distribution
 - Education Opportunities
 - Zines  
-- Presentations?
+- Presentations
 - Speaking Engagements
 - Crisis Consulting
 - Collaboration
