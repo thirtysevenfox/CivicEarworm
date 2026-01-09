@@ -13,8 +13,8 @@ echo "💾 Creating output markdown: $OUTPUT"
 
 # --- 1. TITLE PAGE ---
 TITLE="Civic Readiness & Digital Hygiene"
-AUTHOR=$(grep -i '^name:' LINER_NOTES.md 2>/dev/null | head -1 | cut -d':' -f2 | xargs || echo "")
-EMAIL=$(grep -i '^email:' LINER_NOTES.md 2>/dev/null | head -1 | cut -d':' -f2 | xargs || echo "")
+AUTHOR="ThirtySevenFox"
+EMAIL="thirtysevenfox@mctsecurity.com"
 
 echo "# $TITLE" >> "$OUTPUT"
 echo "" >> "$OUTPUT"
