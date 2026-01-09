@@ -1,4 +1,4 @@
-# Lesson Detail — Walk Like You Belong
+# Lesson Detail — Confidence is Camouflage
 
 | | |
 |---|---|
