@@ -22,6 +22,8 @@ These areas are real gaps — where your expertise can make this better, smarter
    Shaping how this project fits into existing organizing, educational, and artistic spaces — without diluting its intent.
 - **Field Deployment**
    Strategizing how and where this can show up in real-world movements, classrooms, festivals, or protests.
+- **Editorial Help**
+   Getting this into consumable formats for publication, getting it to a point where the message can be distributed and go from ears to minds.
 
 ------
 
@@ -62,4 +64,5 @@ If you’re an **artist or educator**, and you’d like to contribute your own m
 You’ll maintain **full ownership and rights** over your own work, while choosing how (or if) it integrates into the broader open curriculum.
 
 This is about **building a shared civic toolkit**, not absorbing or controlling anyone’s IP.
+
  *Contribute what you care about. Keep what’s yours. Share what matters.*
