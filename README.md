@@ -230,7 +230,27 @@ It teaches **discipline, care, and continuity**.
 - Civic‑safe
 - EFF/ACLU‑aligned
 - Ready for distribution
+---
 
+📁 civic_readiness_and_digital_hygiene-main/
+├── 🎧 Audio/ # AI-generated and remixed music tracks
+├── 🖼️ InfoGraphics/ # Visual tiles paired with lessons
+├── 📄 lessons/ # Lesson plan markdown files
+├── 🎤 lyrics/ # Lyric markdown files matching tracks
+├── 🧠 planning/ # Campaign strategy, distribution plan, and doctrine
+│ ├── Civic_Earworm_FM33_Campaign.md
+│ ├── Civic_Readiness_Distribution_Plan.md
+│ └── README.md
+├── 📢 outreach/ # External messaging, social copy, press
+│ ├── linkedin_post.md
+│ └── README.md
+├── 🛠️ tools/ # Scripts, generators, helper tools (TBD)
+├── 📘 README.md # Main repo overview (you’re here)
+├── 🧩 HELPUS.md # Collaboration + contributor guidance
+├── 🌱 THESTART.md # Project origin story and intent
+├── 📦 final_combined.md # Concatenated markdown for PDF conversion
+├── 📕 Civic_Readiness_Lessonbook.pdf # Compiled, formatted lessonbook
+└── 📰 PRESSKIT.MD # External-facing media/press summary
 ---
 
 *Release links can be added per track when available.*
