@@ -1,5 +1,4 @@
-# Civic Readiness &  Digital Hygiene
-
+# OPERATION DIGITAL EARWORM
 ## Album Syllabus / Curriculum Aid
 
 ---
