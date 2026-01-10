@@ -59,7 +59,7 @@ Part snarky sidekick, part problem-solver, Skippy isn’t just another GPT. He�
 
 > “Can we actually teach civics through catchy, weird, AI-aided music?”
 
-Turns out, we can.
+Turns out, we can. And Skippy can shoulder the load of a lot of editing tasks, making markdown from chaos.
 
 ------
 
@@ -74,6 +74,7 @@ It’s not perfect. It’s a little messy. But it’s real. And it’s growing.
 Welcome to **Operation Civic Earworm**.
 
  Let’s see how far this goes.
+
 
 
 
