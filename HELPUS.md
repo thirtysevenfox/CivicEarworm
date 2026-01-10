@@ -39,7 +39,7 @@ If you’re one of these people, or *orbiting one of these archetypes*, you’ll
 - 🏛️ **Civic activists** looking for new tools to reach people who don’t read PDFs
 - 🎤 **Artists and musicians** who want to perform this live, reinterpret the material, or build something new from it
 - 📣 **Protest organizers** who see the value of shared language, call-and-response, and memory hooks
-- 📰 **Members of the Media** — News writers, podcasters, indie outlets, TikTokers with a take — if you’re helping people make sense of the world, you’re part of the modern press. Let's talk.
+- 📰 **Members of the Media** News writers, podcasters, indie outlets, TikTokers with a take — if you’re helping people make sense of the world, you’re part of the modern press. Let's talk.
 
 - 🫵 **You. Yes, you.**
    If this sparked something — a thought, a melody, a lesson plan, a subversive grin — you’re already halfway on board.
@@ -71,5 +71,6 @@ You’ll maintain **full ownership and rights** over your own work, while choosi
 This is about **building a shared civic toolkit**, not absorbing or controlling anyone’s IP.
 
  *Contribute what you care about. Keep what’s yours. Share what matters.*
+
 
 
