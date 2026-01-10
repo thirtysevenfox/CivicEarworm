@@ -24,6 +24,8 @@ These areas are real gaps — where your expertise can make this better, smarter
    Strategizing how and where this can show up in real-world movements, classrooms, festivals, or protests.
 - **Editorial Help**
    Getting this into consumable formats for publication, getting it to a point where the message can be distributed and go from ears to minds.
+- **Press Coverage**
+   Generating awareness. Driving interest. Vectoring in the hearts and minds.
 
 ------
 
@@ -66,3 +68,4 @@ You’ll maintain **full ownership and rights** over your own work, while choosi
 This is about **building a shared civic toolkit**, not absorbing or controlling anyone’s IP.
 
  *Contribute what you care about. Keep what’s yours. Share what matters.*
+
