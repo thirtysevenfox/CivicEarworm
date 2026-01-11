@@ -1,5 +1,16 @@
+<p style="font-size:1.4em;">
+➡️ <strong>FULL FILES, LESSON PLANS, ETC HERE:</strong><br>
+👉 <a href="https://github.com/thirtysevenfox/CivicEarworm">https://github.com/thirtysevenfox/CivicEarworm</a>
+</p>
+
+[![📢 Operation Civic Earworm on Spotify](https://img.shields.io/badge/📢%20Operation%20Civic%20Earworm%20on%20Spotify-Click%20to%20Listen-green)](https://open.spotify.com/playlist/1HYWdbzP1IMzHnliS6oaUS?si=9b2006808f744170)
+
+
+
 # OPERATION CIVIC EARWORM
 ## Album Syllabus / Curriculum Aid
+
+![Full Logo](InfoGraphics/FULL_LOGO.png)
 
 ---
 
@@ -10,7 +21,8 @@ This curriculum teaches **calm, lawful, sustainable civic participation** in a d
 This is **not** an instruction set for confrontation. It is a framework for **showing up clean, staying human, and going home intact**.
 ---
 
-[![📢 Operation Civic Earworm on Spotify](https://img.shields.io/badge/📢%20Operation%20Civic%20Earworm%20on%20Spotify-Click%20to%20Listen-green)](https://open.spotify.com/playlist/1HYWdbzP1IMzHnliS6oaUS?si=9b2006808f744170)
+
+
 
 ---
 
