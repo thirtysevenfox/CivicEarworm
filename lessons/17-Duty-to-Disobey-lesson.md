@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | Ethics, Law & Professional Responsibility |
 | **Track Type** | Core doctrine (lawful refusal, accountability, restraint) |
-| **Duration** | One listen (repeatable) |
+| **Duration** | 03:38 One listen (repeatable) |
 | **Audience** | Military personnel, law enforcement, corrections, public officials, contractors, supervisors, general public |
 
 ## Lesson Purpose
