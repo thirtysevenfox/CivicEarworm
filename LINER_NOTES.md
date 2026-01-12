@@ -1,7 +1,13 @@
 
 # 🎧 About the Artist / Liner Notes
 
-## 🗂️ Project Title: *Civic Readiness & Digital Hygiene*  
+## 🗂️ Project Title: *Operation Civic Earworm*
+
+AKA 
+
+*Civic Readiness & Digital Hygiene*  
+
+
 **🎙️ Artist / Facilitator:** `ThirtySevenFox`
 
 ---
