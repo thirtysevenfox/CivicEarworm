@@ -63,6 +63,8 @@ Allowed uses include:
 - Community groups
 - Mutual aid and civic education
 - Free public events
+- Churches
+- Covers by established artists during live performance as long as there's a spoken and printed reference to the project
 
 Commercial use requires separate permission.
 
@@ -264,4 +266,5 @@ Don’t sell the curriculum.
 Keep it open.  
 Play the music live.  
 Keep what’s yours.  
+
 Check the repo if unsure.
