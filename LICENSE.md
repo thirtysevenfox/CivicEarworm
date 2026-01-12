@@ -102,7 +102,7 @@ This license does not itself grant or manage live performance rights for audio w
 
 **However:**
 
-All audio works released under the name **ThirtySevenFox** are **expressly permitted and encouraged for live performance**, without the need for additional permission, provided that:
+All audio works specifically named within this project released under the name **ThirtySevenFox** are **expressly permitted and encouraged for live performance**, without the need for additional permission, provided that:
 - The performance is lawful in the venue or jurisdiction
 - Any required venue or performance licenses are the responsibility of the performer or organizer
 
@@ -268,3 +268,4 @@ Play the music live.
 Keep what’s yours.  
 
 Check the repo if unsure.
+
