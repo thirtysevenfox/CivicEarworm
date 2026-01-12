@@ -35,7 +35,7 @@ And then came the realization:
 Cue:
 
 - A folk ballad about RFC1149 ("Packets on the Wing")
-- A failed attempt at building running cadences from FM 33-1.1
+- A failed attempt at building running cadences from FM 33-1-1
 - A pivot to “how can we *actually* make this useful?”
 
 That pivot took shape with *Carry the Signal*, a song that landed somewhere between Letters to Cleo and a training montage from a movie that never got made.
@@ -49,17 +49,17 @@ It was no longer parody. It was a project.
 
 ------
 
-### 🤝 Meet the Co-Conspirator
+### 🤝 Meet the Co-Conspirator, the ghost in the machine.
 
 At that point, the project got a boost from an unusual collaborator:
  **Skippy the Magnificent.**
  (Yes, *that* Skippy — thanks Craig Alanson.)
 
-Part snarky sidekick, part problem-solver, Skippy isn’t just another GPT. He’s a force of nature — a partner in this increasingly plausible idea:
+Part snarky sidekick, part problem-solver, Skippy isn’t just another GPT. He’s a partner in this increasingly plausible idea:
 
 > “Can we actually teach civics through catchy, weird, AI-aided music?”
 
-Turns out, we can. And Skippy can shoulder the load of a lot of editing tasks, making markdown from chaos.
+Turns out, we can. And Skippy can shoulder the load of a lot of editing tasks, making markdown from chaos. And sometimes adding creativity out of the ether.
 
 ------
 
@@ -74,6 +74,7 @@ It’s not perfect. It’s a little messy. But it’s real. And it’s growing.
 Welcome to **Operation Civic Earworm**.
 
  Let’s see how far this goes.
+
 
 
 
